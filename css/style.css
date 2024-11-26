@@ -309,6 +309,7 @@ a:hover {
 	background-color: #567CBD;
 }
 
+/* Styling for the table with class "education-table" */
 .education-table-container {
   margin: 20px auto;
   max-width: 90%;
@@ -318,7 +319,6 @@ a:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
-/* Styling for the table with class "education-table" */
 .education-table {
   width: 100%;
   border-collapse: collapse;
